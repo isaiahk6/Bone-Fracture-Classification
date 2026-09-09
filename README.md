@@ -24,7 +24,7 @@ This project fine-tunes YOLOv8n (nano) to detect fractures across multiple bone 
 ![Training Results](results/results.png)
 
 ### Confusion matrix
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](results/confusion_matrix-2.png)
 
 ### Precision-Recall curve
 ![PR Curve](results/BoxPR_curve.png)
